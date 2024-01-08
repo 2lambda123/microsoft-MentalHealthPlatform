@@ -68,8 +68,8 @@ const ChatCanvas = (props: IChatCanvasProps) => {
                 </button>
             </div>
         );
-    }   
-    
+    }
+
 
     const fakePost = {
         title: "I'm so sad",
@@ -114,7 +114,7 @@ const ChatCanvas = (props: IChatCanvasProps) => {
         return posts;
     }
 
-    return ( 
+    return (
         <div className={classes.PostsContainer}>
            {renderAllPosts(fakeData)}
         </div>

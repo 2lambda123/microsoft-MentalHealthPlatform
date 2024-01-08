@@ -8,7 +8,7 @@
 .ChatContainer {
     background-color: #FFFFFF;
     width: 90%;
-    margin: 0 auto;    
+    margin: 0 auto;
     max-width: 1200px;
     display: flex;
     flex-direction: column;
@@ -106,4 +106,3 @@
     font-weight: 600;
     margin-bottom: 15px;
 }
-
