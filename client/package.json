@@ -43,7 +43,7 @@
     "url-loader": "^4.1.1",
     "webpack": "^4.29.5",
     "webpack-cli": "^3.1.0",
-    "webpack-dev-middleware": "^3.2.0",
+    "webpack-dev-middleware": "^5.3.4",
     "webpack-dev-server": "^4.15.1"
   }
 }
